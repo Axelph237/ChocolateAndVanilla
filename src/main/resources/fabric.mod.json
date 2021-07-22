@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "chocolate_vanilla",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Chocolate And Vanilla",
+  "description": "This mod adds new, complex recipes based off existing resources.",
   "authors": [
-    "Me!"
+    "CandyCaneCazoo"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -14,16 +14,15 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/chocolate_vanilla/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.candy.chocolatevanilla.Main"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
   ],
 
   "depends": {
