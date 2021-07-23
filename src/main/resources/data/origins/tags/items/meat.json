@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "chocolate_vanilla:beef_stroganoff",
+    "chocolate_vanilla:chicken_sandwich",
+    "chocolate_vanilla:fish_sandwich",
+    "chocolate_vanilla:sushi",
+    "chocolate_vanilla:pufferfish_stew",
+    "chocolate_vanilla:scalding_stew",
+    "chocolate_vanilla:fried_membrane",
+    "chocolate_vanilla:jellied_ender_eye"
+
+  ]
+}
