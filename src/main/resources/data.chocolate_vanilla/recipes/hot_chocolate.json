@@ -1,0 +1,8 @@
+{
+  "type": "smelting",
+  "ingredient":{
+    "item": "chocolate_vanilla:chocolate_milk"
+  },
+  "result": "chocolate_vanilla:hot_chocolate",
+  "experience": 0.35
+}

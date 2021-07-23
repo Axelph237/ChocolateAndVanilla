@@ -1,0 +1,8 @@
+{
+  "type": "smoking",
+  "ingredient":{
+    "item": "minecraft:phantom_membrane"
+  },
+  "result": "chocolate_vanilla:fried_membrane",
+  "experience": 0.35
+}

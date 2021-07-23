@@ -1,0 +1,8 @@
+{
+  "type": "smelting",
+  "ingredient":{
+    "item": "minecraft:bamboo"
+  },
+  "result": "chocolate_vanilla:braised_bamboo",
+  "experience": 0.35
+}

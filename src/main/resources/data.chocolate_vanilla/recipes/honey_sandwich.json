@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "minecraft:honey"
+    }
+  ],
+  "result": {
+    "item": "chocolate_vanilla:honey_sandwich",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "smelting",
+  "ingredient":{
+    "item": "minecraft:melon_seeds"
+  },
+  "result": "chocolate_vanilla:roasted_melon_seeds",
+  "experience": 0.15
+}

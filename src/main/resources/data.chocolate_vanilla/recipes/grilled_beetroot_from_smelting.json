@@ -1,0 +1,8 @@
+{
+  "type": "smelting",
+  "ingredient":{
+    "item": "minecraft:beetroot"
+  },
+  "result": "chocolate_vanilla:grilled_beetroot",
+  "experience": 0.35
+}

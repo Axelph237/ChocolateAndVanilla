@@ -1,0 +1,26 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    [
+      {
+        "item": "minecraft:red_tulip"
+      },
+      {
+        "item": "minecraft:orange_tulip"
+      },
+      {
+        "item": "minecraft:pink_tulip"
+      },
+      {
+        "item": "minecraft:white_tulip"
+      }
+    ]
+  ],
+  "result": {
+    "item": "chocolate_vanilla:candied_petals",
+    "count": 3
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:potion"
+    },
+    {
+      "item": "minecraft:rose_bush"
+    }
+  ],
+  "result": {
+    "item": "chocolate_vanilla:rose_tea",
+    "count": 1
+  }
+}
